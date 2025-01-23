@@ -10,12 +10,16 @@ With this system can makes managing employee-related tasks at Polsek Cikampek mu
 
 ## The tech used on this web is
 
-<img src="assets/Web_overview/adminlte.png" height="50px">
-<img src="assets/Web_overview/ci3.png" height="50px">
-<img src="assets/Web_overview/php_7.png" height="50px">
-<img src="assets/Web_overview/js.png" height="50px">
-<img src="assets/Web_overview/mysql.png" height="50px">
-<img src="assets/Web_overview/phpmyadmin.png" height="50px">
+<table>
+    <tr>
+        <td><img src="assets/Web_overview/adminlte.png" height="50px"></td>
+        <td><img src="assets/Web_overview/ci3.png" height="50px"></td>
+        <td><img src="assets/Web_overview/php_7.png" height="50px"></td>
+        <td><img src="assets/Web_overview/js.png" height="50px"></td>
+        <td><img src="assets/Web_overview/mysql.png" height="50px"></td>
+        <td><img src="assets/Web_overview/phpmyadmin.png" height="50px"></td>
+    </tr>
+</table>
 
 ## Methodology
 
