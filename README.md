@@ -53,9 +53,7 @@ Based on the methodology used in this project (Waterfall, excluding Operation an
 
 <ins>**Note:**</ins> The data used in this software (especially in the image below) is fake data or just a dummy data <ins>**not real data**</ins>.
 
-![Image](https://github.com/user-attachments/assets/ee6af04b-e857-42e0-a043-d606bec461d9)
-
-
+<img src="assets/Web_overview/simanka.gif" height="500px">
 <img src="assets/Web_overview/page-12.png" height="500px">
 <img src="assets/Web_overview/login.png" height="500px">
 <img src="assets/Web_overview/logout.png" height="500px">
